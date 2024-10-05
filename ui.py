@@ -67,27 +67,15 @@
       </span>
      </div>
      <div class="bg-gray-700 p-4 rounded-lg flex flex-col items-center">
-      <img alt="Planet Explore Image" class="mb-2" height="100" src="https://storage.googleapis.com/a1aa/image/ikf0pZvv9dwGdaafbBTRJvBmGcGukb6kHbgm8tXLlGdF1vjTA.jpg" width="100"/>
+      <img alt="Exoplanets Explore Image" class="mb-2" height="100" src="https://storage.googleapis.com/a1aa/image/ikf0pZvv9dwGdaafbBTRJvBmGcGukb6kHbgm8tXLlGdF1vjTA.jpg" width="100"/>
       <span>
-       PLANET EXPLORE
+       EXOPLANETS EXPLORE
       </span>
      </div>
      <div class="bg-gray-700 p-4 rounded-lg flex flex-col items-center">
       <img alt="Star Explore Image" class="mb-2" height="100" src="https://storage.googleapis.com/a1aa/image/7p8jrFfC8t2KVqywmyZX3VDPsZkDl5bRL675vkeMqMZC1vjTA.jpg" width="100"/>
       <span>
        STAR EXPLORE
-      </span>
-     </div>
-     <div class="bg-gray-700 p-4 rounded-lg flex flex-col items-center">
-      <img alt="Near Stars Image" class="mb-2" height="100" src="https://storage.googleapis.com/a1aa/image/XesII7w8UKySQKmfJJPs5BksPl4ZEB73VvLEfY4boqVMqfOOB.jpg" width="100"/>
-      <span>
-       NEAR STARS
-      </span>
-     </div>
-     <div class="bg-gray-700 p-4 rounded-lg flex flex-col items-center">
-      <img alt="Messier Objects Image" class="mb-2" height="100" src="https://storage.googleapis.com/a1aa/image/OxArfcI4wC1rZaejkhjoLXy2zD1999H0LLcwzzsoZSfDqfOOB.jpg" width="100"/>
-      <span>
-       MESSIER OBJECTS
       </span>
      </div>
     </div>
